@@ -1,0 +1,7 @@
+config.py
+test.py
+venv
+cash
+sessions
+__pycache__
+.idea
